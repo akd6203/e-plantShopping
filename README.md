@@ -8,14 +8,6 @@ https://akd6203.github.io/e-plantShopping/
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Product List | Cart View |
-|-----------|---------------|-----------|
-| ![Home](./screenshots/home.png) | ![Product](./screenshots/product-list.png) | ![Cart](./screenshots/cart.png) |
-
----
-
 ## 🛠 Features
 
 - 🪴 Browse multiple categories of plants
@@ -26,10 +18,6 @@ https://akd6203.github.io/e-plantShopping/
 - ♻️ Modular component structure
 
 ---
-
-
----
-
 ## ⚙️ Technologies Used
 
 - **React.js**
@@ -47,6 +35,8 @@ https://akd6203.github.io/e-plantShopping/
 - Node.js (v16+ recommended)
 - npm or yarn
 
+---
+
 ### Steps
 
 1. **Clone the repo**
@@ -61,11 +51,15 @@ https://akd6203.github.io/e-plantShopping/
 4. **Open your browser and go to:**
   http://localhost:5173
 
+---
+
 ### 🧪 Future Enhancements
   - 💳 Payment integration (Stripe or PayPal)
   - 🔍 Product filtering and search
   - 💾 Cart persistence with local storage
   - 🔐 User authentication and order history
+
+---
 
 
 
