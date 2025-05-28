@@ -1,12 +1,10 @@
-Website Link: https://akd6203.github.io/e-plantShopping/
-
 # 🌿 Paradise Nursery – React Plant Shopping Website
 
 **Paradise Nursery** is a modern , user-friendly plant shopping web app built with **React** and **Redux**. The app allows users to browse various categories of indoor and outdoor plants, view their descriptions, and add them to a cart. It also features a cart system with a visible item counter in the navigation bar.
 
 ## 🚀 Live Demo
 
-> Coming soon on GitHub Pages or Vercel...
+https://akd6203.github.io/e-plantShopping/
 
 ---
 
